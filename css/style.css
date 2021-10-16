@@ -4,12 +4,12 @@
 }
 
 html, body{
-    height: 300%;
+    height: auto;
 }
 
 body {
     color: white;
-    background: linear-gradient(180deg, rgba(54,77,204,1) 0%, rgba(7,19,84,1) 100%);
+    background: #0072b1;
     font-family: 'Raleway', sans-serif;
     height: auto;
 }
